@@ -1,0 +1,29 @@
+{
+  "token_type": "Bearer",
+  "expires_at": 1781145089,
+  "expires_in": 21600,
+  "refresh_token": "6ad52d9379c7314a0c3bd12b658aa38bbbb35023",
+  "access_token": "a6075cd1113e98bafe1ab6022da4947b9c79116d",
+  "scope": "activity:read_all read",
+  "athlete": {
+    "id": 56350581,
+    "username": null,
+    "resource_state": 2,
+    "firstname": "Danny",
+    "lastname": "Camburn",
+    "bio": null,
+    "city": null,
+    "state": null,
+    "country": null,
+    "sex": "M",
+    "premium": true,
+    "summit": true,
+    "created_at": "2020-04-28T13:52:05Z",
+    "updated_at": "2026-06-09T22:03:11Z",
+    "badge_type_id": 1,
+    "profile_medium": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/56350581/46147660/4/medium.jpg",
+    "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/56350581/46147660/4/large.jpg",
+    "friend": null,
+    "follower": null
+  }
+}
