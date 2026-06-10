@@ -1,7 +1,3 @@
 {
-  "rewrites": [{ "source": "/", "destination": "/dashboard.html" }],
-  "buildCommand": null,
-  "outputDirectory": ".",
-  "functions": {},
-  "ignore": ["server.js", "backfill.js", "authorize.js", "strava.js", "token.js", "parse-health.js", "parse-garmin.js", "upload-garmin.js", "inspect-garmin.js"]
+  "outputDirectory": "public"
 }
